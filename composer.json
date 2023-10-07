@@ -1,5 +1,5 @@
 {
-    "name": "KlausDerKleber/cups-ipp",
+    "name": "klausderkleber/cups-ipp",
     "description": "CUPS Implementation of IPP - PHP Client API",
     "type": "library",
     "license": "MIT",
